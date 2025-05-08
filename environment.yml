@@ -1,0 +1,11 @@
+name: drift-env
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - nltk
+  - jupyter
