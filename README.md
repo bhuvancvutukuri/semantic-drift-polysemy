@@ -1,4 +1,10 @@
 # Predicting Semantic Drift from Polysemy Density
+![Python](https://img.shields.io/badge/Python-NLP-blue)
+![NLP](https://img.shields.io/badge/NLP-Word%20Embeddings-brightgreen)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
+![Statistics](https://img.shields.io/badge/Statistics-Regression-lightgrey)
+![Research](https://img.shields.io/badge/Research-Computational-purple)
+
 
 This project investigates whether polysemous words (words with multiple senses) are more prone to semantic drift over time. Using WordNet and diachronic word embeddings (HistWords), we compute polysemy density and track semantic movement across decades from 1800 to 1990.
 
